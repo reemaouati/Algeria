@@ -8,4 +8,19 @@
 </p>
 
 ## Algeria administrative division
+ - states (wilayas) `states.json`
+ - counties (dairas) `counties.json`
+ - districts (baladiyah) `districts.json`
 
+## Author
+
+<div align="center">
+
+If you find this repo useful, please consider giving it a ⭐
+
+</div>
+
+----
+<div align="center">
+Made with :hearts: by <a href="https://github.com/reemaouati">Reem Aouati</a>
+</div>
