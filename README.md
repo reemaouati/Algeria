@@ -8,16 +8,17 @@
 </p>
 
 ## Algeria administrative division
- - States (wilayas) `states.json`
+ - States (wilayas) [states.json](JSON/states.json)
  - Counties (dairas) `counties.json`
- - Districts (baladiyah) `districts.json`
+ - Districts (baladiyah) [districts.json](JSON/districts.json)
 
 ## Formats
 - JSON `3`
 
 ## ToDo
-- [ ] adding the newly added delegate states.
+- [x] adding the newly added delegate states.
 - [ ] adding postal codes.
+- [ ] adding counties JSON file.
 
 ## Author
 
