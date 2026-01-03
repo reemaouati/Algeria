@@ -20,13 +20,13 @@
 - [ ] adding postal codes.
 - [ ] adding counties JSON file.
 
-## Author
+## Star History
 
-<div align="center">
-If you find this repo useful, please consider giving it a ⭐
-</div>
+[![Star History Chart](https://api.star-history.com/svg?repos=reemaouati/Algeria&type=date&legend=top-left)](https://www.star-history.com/#reemaouati/Algeria&type=date&legend=top-left)
 
-----
-<div align="center">
-Made with :hearts: by <a href="https://github.com/reemaouati">Reem Aouati</a>
-</div>
+#### Find this repository useful? ♥️
+Support it by joining the [stargazers](https://github.com/reemaouati/Algeria/stargazers). ⭐
+
+If you want to help even more, please spread the word — share the project on X, Reddit, or with your community so more people discover it.
+
+And [follow me](https://github.com/reemaouati) to keep up with future updates and projects. 🤩
